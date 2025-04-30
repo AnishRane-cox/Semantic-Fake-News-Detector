@@ -1,7 +1,3 @@
-Here’s a professional and clean **README.md** template for your fake news detection project using semantic classification:
-
----
-
 # 📰 Semantic Fake News Detection
 
 A machine learning project that classifies news articles as *real* or *fake* using Word2Vec embeddings and semantic features such as POS tagging and lemmatization. This project applies Logistic Regression, Decision Tree, and Random Forest classifiers and evaluates them using key metrics like Accuracy and F1 Score.
